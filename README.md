@@ -1,4 +1,4 @@
-# web
+# Simple ecommerce Website
 My first client side design and development projects
 1>	“Register to get offers “
 Enter your name and a password which is more than 6 characters.
